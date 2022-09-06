@@ -58,7 +58,7 @@ as model if it has .pth extension. Grab models from the [Model Database](https:/
 - install [Python 3.10.6](https://www.python.org/downloads/windows/) and check "Add Python to PATH" during installation. You must install this exact version.
 - install [git](https://git-scm.com/download/win)
 - install [CUDA 11.3](https://developer.nvidia.com/cuda-11.3.0-download-archive?target_os=Windows&target_arch=x86_64)
-- place `model.ckpt` into webui directory, next to `webui.bat`.
+- place `model.ckpt` into webui directory, next to `webui.bat`.  Change the name of the file to model.ckpt if needed
 - _*(optional)*_ place `GFPGANv1.3.pth` into webui directory, next to `webui.bat`.
 - run `webui.bat` from Windows Explorer.
 
